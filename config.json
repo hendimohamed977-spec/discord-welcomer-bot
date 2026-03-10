@@ -1,6 +1,7 @@
 {
-    "botToken": "token",
-    "welcomeChannelId": "channel_id",
-    "autoRoleId": "auto_role_when_user_join"
+    "botToken": "MTQ4MTAzMTU4MDgwMDY0NzI2MQ.GmZYY9.iGZwaozAxuIbyO7HnVJYDJwb98XSWlIkQfipos",
+    "welcomeChannelId": "https://discord.com/channels/1466802289871159409/1466802290760618201",
+    "autoRoleId": "1466802290282463469"
   }
+
   
